@@ -12,6 +12,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
   * [File Uploading](#file-uploading)
   * [Searching](#searching)
   * [Scheduled/Recurrence Jobs](#scheduledrecurrence-jobs)
+  * [Request](#request)
   * [View Helper](#view-helper)
   * [Environment Variables](#environment-variables)
   * [Admin Panel](#admin-panel)
@@ -115,6 +116,9 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby.
   * [sidetiq](https://github.com/tobiassvn/sidetiq) - Recurring jobs for sidekiq.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - Sucker punch is a single-process Ruby asynchronous processing library.
+ 
+## Request
+* [Browser](https://github.com/fnando/browser) - Tell what device, platform, OS, etc. the request came from.
 
 ## View Helper
 * [formtastic](https://github.com/justinfrench/formtastic) - Formtastic is a Rails FormBuilder DSL (with some other goodies) to make it far easier to create beautiful, semantically rich, syntactically awesome, readily stylable and wonderfully accessible HTML forms in your Rails applications
